@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-	const apiKey = 'f4ba855920eeca6d4e7d53d6cefa46d8'
+	const apiKey = ''
 
 	const [weatherData, setWeatherData] = useState([{}])
 	const [city, setCity] = useState("")
